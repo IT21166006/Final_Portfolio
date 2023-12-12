@@ -1,0 +1,40 @@
+/* Header.css */
+.bg-image {
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 65vh;
+    display: flex;
+    align-items: center;
+  }
+  
+  .main-info {
+    text-align: center;
+    color: white;
+  }
+  
+  .animate-charcter {
+    animation: fadeInUp 1s both;
+  }
+  
+  .typed-text {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Media query for adjusting styles in desktop mode */
+  @media (min-width: 768px) {
+    .bg-image {
+      height: 100vh;
+    }
+  }
+  
