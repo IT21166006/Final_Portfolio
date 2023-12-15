@@ -52,7 +52,7 @@ const Resume = () => {
 
                     <div className='row'>
                       <div className='col-md-12 d-flex justify-content-center'>
-                      <button class="btn-primary2"><a id='resumedownlink' href='https://doc-00-3o-prod-00-apps-viewer.googleusercontent.com/viewer2/prod-00/pdf/opr9rb6u47f7jr7s7jgof6mlkbae9efg/b88nbpimk4atluuq34jp98l0juavqahe/1692810300000/3/101328373089556008282/APznzabLDMDmDhYW7Wo9Xg4Apyt2o5DVNdgqcmKmdZeXHRYBfuHbGwuoyEfpZxt4HWY2Xm_xcqNYDTy-1Dx57nRyKpljvADrQS0Qj2mjp6K6yv_q76_DBlYCYPW6KIF_yAg3JxLDX1K0oNvmmj-r1MkvePNcD-Wuaywpjbcxh5Z7gFLXaMGa70dmdmVkeThEaY2ZCqJ8t4pHAPm0BXDW7dbdyeXgO-mVkJ402co78zC78Lyi_MWtTqgWWOq3tOFuLLZpCA8Yjt5el-C-vvAJEVN6IbjXL27UOCoR-N0VJLc0EKuyqmvqkX8dPpGxMzYqnnxYSaUq8CPoHGxIw3aUXc8rSTxQxjlFxGw9Qm8p7T_qMwGH3WQlcW1zZLytZtzjdW6mDBj-88lfuY-ZT9CuijbKvAmfTx_t7A==?authuser=0&nonce=0b76djj2pkimo&user=101328373089556008282&hash=b42f7ngvef66bpo9v4r27hp5k7p7kgk9'>Download Resume</a></button>
+                      <button class="btn-primary2"><a id='resumedownlink' href='https://www.mediafire.com/file/ldzoxcgja15gafu/Y_Tharindu_Dilshan_Resume.pdf/file'>Download Resume</a></button>
                       </div>
                       </div>
                     </div>
