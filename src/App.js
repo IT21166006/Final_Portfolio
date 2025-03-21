@@ -11,6 +11,8 @@ import Quote from './Components/Quote';
 import Footer from './Components/Footer';
 import ScrollToTopButton from './Components/ScrollToTopButton';
 import Tech from './Components/tech';
+import Technology from './Components/Technologies';
+
 
 
 
@@ -22,14 +24,16 @@ function App() {
     
       <NavBar />
       <Header />
-      <br></br>
+      
+ 
+
       <Projects/>
       <br></br>
       <Resume/>
       <br></br>
       <Quote/>
       <br></br>
-      <Tech/>
+      <Technology/>
       <br></br>
       <Footer/>
       <ScrollToTopButton />
