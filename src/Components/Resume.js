@@ -1,5 +1,5 @@
 import React from 'react'
-import propic from '../images/profilepic.png';
+import propic from '../images/profilepic2.png';
 
 const Resume = () => {
   return (
