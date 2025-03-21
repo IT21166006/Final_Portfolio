@@ -14,8 +14,8 @@ const Projects = () => {
       <div className="container">
         <div className='row'>
           <div className='col-md-12'>
-          <h1 id='projectstxt'>Projects</h1>
-          <h3 id='selecttxt'>Selected projects I've worked on recently.</h3><a href='https://github.com/IT21166006'> <h3 id='selecttxt'>Wan't to see more?</h3></a>
+          <h1 className='text-white text-4xl font-bold '>Projects</h1>
+          <h3 className='text-white '>Selected projects I've worked on recently.</h3><a href='https://github.com/IT21166006'> <h4 className='text-red-500 '>Wan't to see more?</h4></a>
           <br></br>
           </div>
         </div>
