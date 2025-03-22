@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import logo from '../logo1.png';
 import '../CSS/Header.css';
+import Animator from './Animater';
 
 function Header() {
   useEffect(() => {
@@ -37,11 +38,14 @@ function Header() {
               }}>
                 Welcome to NextGen Labs
               </h3>
+              
+              
 
 
 
               <br />
               <img className="logo" src={logo} alt="Logo" style={{ width: '100px', height: 'auto' }} />
+              
 
 
               <br></br>
