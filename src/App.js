@@ -38,16 +38,16 @@ function App() {
       
       <br></br>
       <Header />
-      <br></br>
+      
  
 
       <Resume/>
-      <br></br>
+      
       
       <Projects/>
-      <br></br>
+      
       <Quote/>
-      <br></br>
+      
       <Technology/>
       <br></br>
      
